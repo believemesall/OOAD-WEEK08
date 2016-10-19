@@ -1,3 +1,27 @@
+
+#ส่งการบ้าน
+![](http://www.plantuml.com/plantuml/img/9Son3O0W40NG_gQu4Wesi607NO305uXu97Z4nk4riNt5yvU6eVDirB0hQ-THSr5ETI1gxKAq8SI2mSlZ7Ayw4qJ9D0IfaktFvf1-DwGCI-GXwHjV)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBoJSopKj3LjLFG2CylojQ42G3v8KM9PQavo29kYRcPEPN88hc9HKL00OVKl1IWQG00)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuGfEpSd9JSnJiB5H24ZDByX9jRFZid8kBIx9pqqjib98B5RmhGmkp478Am0LQ0I3j6igS6aK0xLdvgLhWXHgX1QdQe8KUYJc9gKMfQSMWTJ2RT2rKu3gGmY1n42wkBWWjY09EAJcfG0T2000)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8ABYbDISqhiLBGpKbDAz6rKz3mIKtCoynBrrH0bYpAJCy0omQNv1UXIvOMW6Iyy_BBSr9JqbCraULIyilpGBA--NcfbPfS3gbvAK1x0G00)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuSf9JIjHACbNACfCpoXHICaiIaqkoSpFux8AIKrCpaWjibBGrRLJq2W1yJIvh89BIbDIyqgWeZwfYKLvcbmEgNafGBC0)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # OOAD-WEEK08
 
 ## Use Case Diagram (ภาษาไทย)
